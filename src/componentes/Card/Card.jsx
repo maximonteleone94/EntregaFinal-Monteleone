@@ -1,19 +1,40 @@
-import React from 'react'
-import perfumes from '../../assets/perfumes.webp'
+// import React from 'react'
+// import Card from './Card';
+
+// const card = [
+//     {
+//         id:"1",
+//         titulo:"Item 1",
+//         descripcion:"shampoo",
+//         Imagen:"src/Assets/shampo.webp",
+//         precio: "$1200",
+//         stock: "10"
+//     },
+//     {
+//         id:"2",
+//         titulo:"Item 2",
+//         descripcion:"perfume",
+//         imagen:"src/Assets/perfumes.webp",
+//         precio: "$650",
+//         stock: "10"
+//     },
+//     {
+//         id:"3",
+//         titulo:"Item 3",
+//         descripcion:"carnauba",
+//         imagen: "src/Assets/carnauba.webp" ,
+//         precio: "$1500",
+//         stock: "10"
+//     },
+//     {
+//         id:"4",
+//         titulo:"Item 4",
+//         descripcion:"apc",
+//         imagen:"src/Assets/apc.webp",
+//         precio: "$1200",
+//         stock: "10"
+//     }
+// ]
 
 
-const Card = (props) => {
-    const {titulo,descripcion,imagen} = props;
-  return (
-    <div className="card border border-black border-1 text-center" style={{width:'18rem'}}>
-    <img src={ perfumes } className="card-img-top" alt="perfumes"/>
-    <div className="card-body">
-      <h5 className="card-title">{titulo}</h5>
-      <p className="card-text">{descripcion}</p>
-      <button className="btn btn-danger">Comprar</button>
-    </div>
-  </div>
-  )
-}
-
-export default Card
+// export default Card

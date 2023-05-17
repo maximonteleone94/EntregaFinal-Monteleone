@@ -1,0 +1,45 @@
+[
+    {"id": 1 ,
+      "titulo": "Shampoo",
+      "precio": 1100,
+      "img": "imagenes/shampo.webp",
+      "cantidad":1
+    },  
+   
+    {"id": 2 ,
+     "titulo": "Shampoo Wax" ,
+     "precio": 1300,
+     "img":"imagenes/sampoowax.webp",
+     "cantidad":1
+   }, 
+   
+    {"id": 3 ,
+      "titulo": "Espuma Activa" ,
+      "precio": 1500,
+      "img":"imagenes/foam.webp",
+      "cantidad":1
+   },  
+   
+    {"id": 4 ,
+      "titulo": "Perfumes" ,
+      "precio": 550,
+      "img":"imagenes/perfumes.webp",
+      "cantidad":1
+   },
+   
+    {"id": 5 ,
+      "titulo": "APC" ,
+      "precio": 1100,
+      "img":"imagenes/apc.webp",
+      "cantidad":1
+   },  
+   
+    {"id": 6 ,
+      "titulo": "Carnauba Wax" ,
+      "precio": 2000,
+      "img":"imagenes/carnauba.webp",
+      "cantidad":1
+   }
+   
+   ]
+   
